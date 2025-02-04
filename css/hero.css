@@ -1,3 +1,8 @@
+    .rubik-dirt-regular {
+  font-family: "Rubik Dirt", serif;
+  font-weight: 400;
+  font-style: normal;
+}
 
 body{
     margin: 0;
@@ -17,6 +22,7 @@ h1, h2{
   font-family: "Rubik Dirt", serif;
   font-weight: 400;
   font-style: normal;
+    src: url()
 }
 /* header styles */
 
