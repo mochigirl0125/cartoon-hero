@@ -17,6 +17,7 @@ h1, h2{
   font-weight: 400;
   font-style: normal;
 }
+/* header styles */
 
 header h1{
      color: white;
@@ -32,11 +33,12 @@ main{
         max-width: 800px;
         margin: 0 auto;
     padding: 20px;
-    
-    }
+}
 main img{
     max-width: 100%;
+    padding-left: 50px
 }
+
 
 h2{
     font-size 30px;
@@ -70,7 +72,7 @@ footer a:hover{
     background-color: transparent;
 }
 p.caption{
-    color: 999999;
+    color: gainsboro;
     font-style: italic;
     margin-top: 0;
 }
